@@ -1,1 +1,1 @@
-# odin-recipes
+Neste projeto estarei criando um site de receitas basicas, utilizando apenas o html.
